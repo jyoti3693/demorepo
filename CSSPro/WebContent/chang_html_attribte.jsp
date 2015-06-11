@@ -18,10 +18,10 @@
 	<script>
 function changeImage() {
     var image = document.getElementById('myImage');
-    if (image.src.match("download.jpg")) {
+    if (image.src.match("C:\Users\jyoti.chaudhary\Desktop\image.JPG")) {
         image.src = "";
     } else {
-        image.src = "download(1).jpg";
+        image.src = "C:\Users\jyoti.chaudhary\Desktop\img.jpg";
     }
 }
 </script>
