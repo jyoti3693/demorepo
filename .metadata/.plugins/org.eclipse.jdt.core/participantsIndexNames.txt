@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+C:\repository\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3495449215.index
+\JSCSSProject\src
