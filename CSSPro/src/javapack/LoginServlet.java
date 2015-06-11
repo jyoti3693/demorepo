@@ -41,7 +41,7 @@ public class LoginServlet extends HttpServlet {
 
 		int id = Integer.parseInt(request.getParameter("numb"));
 		String pass = request.getParameter("pass");
-		System.out.println("id=========pass jyoti=============" + id
+		System.out.println("id=========pass jyoti 2=============" + id
 				+ "===============" + pass);
 		if (id == 1 && pass.equals("jyotijain")) {
 			response.sendRedirect("jyoti.jsp");
